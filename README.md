@@ -6,7 +6,12 @@ A cybersecurity demonstration project for CNIT176 using OpenCanary honeypot with
 
 [Watch the full demonstration on YouTube](https://www.youtube.com/watch?v=O-4L6w7C-c0)
 
-## 📋 Overview
+## 📊 Project Slideshow
+
+[View the project slideshow](https://docs.google.com/presentation/d/1GrJ1yD1qjbkfVJMM0FFYEKBX_z9L5lxfUaEnJlff57Y/edit?usp=sharing)
+
+
+##📋 Overview
 
 This project demonstrates:
 - OpenCanary honeypot deployment on Raspberry Pi
